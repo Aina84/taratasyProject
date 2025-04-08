@@ -1,4 +1,5 @@
-export function messageFilter(request,response,next){
+
+export default function messageFilter(request,response,next){
     const { params : message } = request;
     if(message.length>=20){
         return response.send({rep : ' votre message est trop long'})
