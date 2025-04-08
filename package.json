@@ -1,0 +1,23 @@
+{
+  "name": "Taratasy_Backend",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^0.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "jimp": "^1.6.0",
+    "qrcode": "^1.5.4",
+    "sharp": "^0.33.5",
+    "socket.io": "^4.8.1",
+    "sqlite3": "^5.1.7"
+  }
+}
