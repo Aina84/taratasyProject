@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: "AIzaSyDEoLogwzeEhL2QIWDfbyf8u0zUke5fobk" });
+const ai = new GoogleGenAI({ apiKey: "api_key_here" });
 
 async function ask(myQuestion) {
   try {    
