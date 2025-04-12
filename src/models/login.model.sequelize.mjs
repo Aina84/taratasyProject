@@ -1,0 +1,1 @@
+//use sequelize to create model
