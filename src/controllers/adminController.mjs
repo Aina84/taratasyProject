@@ -1,15 +1,8 @@
 import ModelAdmin from "../models/admin.model.mjs";
 
-export async function logging(err,req,res) {
-    if(err){
-        res.send({
-            error : {
-                status : err.status,
-                message : err.message
-            }
-        })
-    }
-    
+
+async function logging(req,res) {
+
     const { mail , mdp } = req.body;
     const data = await ModelAdmin.log(mail,mdp);
     const {centre} = data[0][0] ;
@@ -21,3 +14,23 @@ export async function logging(err,req,res) {
     }
 
 }
+
+async function register(req,res) {
+
+    const { centre, mail, mdp } = req.body;
+    const dbresponse = await ModelAdmin.register(centre,mail,mdp);
+    if(dbresponse.length==0){
+        res.send({
+        success : false ,
+        message : 'request failed'
+    })
+    }else {
+        res.send({
+            success : true , 
+            message : 'user registered'
+        })
+    }
+
+}
+
+export default { logging, register }
