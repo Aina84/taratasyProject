@@ -1,0 +1,1632 @@
+{
+  "ANTSIRABE I": {
+    "ANTSIRABE": [
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TOMBOARIVO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBALAVATO SUD",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDROVAKELY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "VOHITRARIVO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SAHATSIHO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MARODINTA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHATSINJO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARASAOTRA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBILOMBE",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANAMBOLA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSIRABE AVARATRA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FITOMILASI-BEVOKATRA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHAFALY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANODIDINA NY GARA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SAHAROALOHA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHAZOARIVO NORD",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHAZOARIVO SUD",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MIARAMASOANDRO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "VOHIJANAHARY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSONGO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDAFIATSIMO STAR",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSIVATRINIKAMO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBALAVATO 401",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSIAFAHY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHITSOKINA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AVARABOHITRA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANAMANJAKA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAFARA ANDRANOBE",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIJAFY NORD",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSANGA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSENAKELY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AVARATSENA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ATSIMOTSENA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBORONOMBY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FIADANANA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "IVORY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDRANGY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDRAIKIBA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDREFAN'IVOHITRA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANAMBAO EST IVOHITRA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIDAVA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIDRAVAKA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIPENO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHITSARABE",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPATANA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "BEFARITRA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FANANANA AMBOSITRAKELY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANDRIANKENIHENY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHAZINA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "VEREZAMBOLA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANETY",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBALAVATO 601",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANARIVO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANGA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSINJORANO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSIRABE AFOVOANY ATSINANANA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBALAKISOA BEMASOANDRO",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPANATAOVANA",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMENA SUD",
+        "district": "ANTSIRABE I"
+      },
+      {
+        "commune": "ANTSIRABE",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMENA NORD",
+        "district": "ANTSIRABE I"
+      }
+    ]
+  },
+  "ANTSIRABE II": {
+    "ALAKAMISY": [
+      {
+        "commune": "ALAKAMISY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ALAKAMISY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALAKAMISY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHITROMBY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALAKAMISY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDOHAFARIHY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALAKAMISY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHANDRAZA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALAKAMISY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAROFANGADY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALAKAMISY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARATANANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALAKAMISY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAMAHATAMANA",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "ALATSINAINY IBITY": [
+      {
+        "commune": "ALATSINAINY IBITY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBALAVAO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALATSINAINY IBITY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBARINAKANGA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALATSINAINY IBITY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANANJARA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALATSINAINY IBITY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSIRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALATSINAINY IBITY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "APOPOHA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALATSINAINY IBITY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANETINILAPA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALATSINAINY IBITY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SAHAMALAZA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ALATSINAINY IBITY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "IHASY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "AMBANO": [
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBANO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHITSARATELO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPARIHINDRAMANANIOLONA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDRAKODAVAKA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANKERAMBE",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANETIBE",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANETY AVARATRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHAZINA ATSIMO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANAMPISOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAFARA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAFIRAISANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAMANDROSO ANDROKAVATO",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "AMBATOMENA": [
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOMENA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOLAVOLA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANOSY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSAHANARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPANATAOVANA-ANTSAMPANIMAHAZ",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FENOARIVO I",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHAZOARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANARINTSOA EST",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MITSINJOARIVO BETAMPONA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAFIERANA NORD",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBODIVATO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBATOMENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOMAINTY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "AMBOHIBARY": [
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANOSY ANTSOFOMBATO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FARAVOHITRA SAMBAINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAFIRAISANA MORARANO III",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDRANOKELY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANDROSO II",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MORODRANO TRAFONOMBY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "INANOBE MANERINERINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MADERA AMBOHIMADINIKA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "KIANJASOA ATSIMONDAPA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANDRITSARA FIARAHAMIASA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIBARY IRAY TSY MIVAKY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAZAZAMANDIMBY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANKENIHENY III",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHATSINJO MIARADIA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SAHABE TETEZANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FANOMEZANTSOA SAMBAINA GARA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOMAINTY FIHAONANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FENOMANANA AMBOHIMARINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIBARY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHITRANDRIANA MIRAY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "AMBOHIDRANANDRIANA": [
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANDROSO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMARINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANOSIBE",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSAHAVORY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FANJAKAMANDROSO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MIANDRISOA TSARAHONENANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MIARINARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAMONINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TONGARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIDRANANDRIANA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAMODY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "AMBOHIMIARIVO": [
+      {
+        "commune": "AMBOHIMIARIVO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOLAHIMARINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIMIARIVO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIKAMBANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIMIARIVO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMASY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIMIARIVO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANAMBAO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIMIARIVO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "BETSIHOLANY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIMIARIVO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOANIERANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHIMIARIVO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAMANDROSO",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "AMBOHITSIMANOVA": [
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIBOAHANGY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHITSIMANOVA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AVARABOHITRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANAMALAZA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSONGOBATO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FENOARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MIADANIMERINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MARONONY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAVINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "AMBOHITSIMANOVA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAMANANDRARINY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "ANDRANOMANELATRA": [
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBEROBE",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANDROSO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOLOTSARARANO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDRANOMANELATRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANETIBE TOAVALA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "BEMASOANDRO ANOSIMBOAHANGY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FANDRINDRANO MANAOVASOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MIARINARIVO BEMOLOLO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MORAFENO FIADANANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MORARANO EST",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAMANDROSO GARA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAMANDROSO SOAMAHAVOKY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAVAVAKA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANDRANOMANELATRA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAZAZAMANDIMBY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "ANTANAMBAO": [
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBALARANO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOBE FISAHANANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOMANGA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANDROSO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "BEMASOANDRO MENATRATRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FENOARIVO II",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "IHARANDRAMOSA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "INDROAMITA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHATSINJO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MERIMANDROSO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAMIAKATRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAMIAMPITA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOANAKAMBANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOANIERANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAVIMBAHOAKA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANAMBAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARASAOTRA",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "ANTANIMANDRY": [
+      {
+        "commune": "ANTANIMANDRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIDRANO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANIMANDRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPAHADIMY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANIMANDRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDRIANANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANIMANDRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANIMANDRY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANIMANDRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSONGOBE NORD",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANIMANDRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AVARADRANO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANIMANDRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MASINANDRAINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTANIMANDRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MASINILOHARANO",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "ANTSOANTANY": [
+      {
+        "commune": "ANTSOANTANY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBALAVAO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTSOANTANY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMENA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTSOANTANY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSAPANIMAHAZO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTSOANTANY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSOATANY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "ANTSOANTANY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANDRITSARAKELY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "BELAZAO": [
+      {
+        "commune": "BELAZAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHINAPETRAKA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "BELAZAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBONIAVARATRA SUD",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "BELAZAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANDRANONANDRIANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "BELAZAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANJANAMIAKATRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "BELAZAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "BELAZAO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "BELAZAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MIADAKOFENO SUD",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "BELAZAO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAHASINA",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "MANANDONA": [
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOFOTSY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMIRARY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIPAHANA SOARAY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIPONANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHITRIMANJATO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FIERENANTSOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHASOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANANDONA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "RANOMAINTY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ZANAKAMBONY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "MANDROSOHASINA": [
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAFIANATRA MANDROSOHASINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TONGASOA AMBANIMASO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPARIHY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAHONENANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANJAKAMIADANA AVARABARY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MIARINTSOA SOAHAZO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AVARABARY FANANTENANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TONGASOA KIANJANAKANGA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "BETAMPONA MAHAVOKATRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANDROSOHASINA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAMODY AMBALAFENO",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "MANGARANO": [
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBALAMARINA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIJATOVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANDROSO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANIVOSAHA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANKERANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANIBE",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHAFALIARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANGARANO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANINARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "MANGARANO",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SAHATANY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "SAHANIVOTRY MANANDONA": [
+      {
+        "commune": "SAHANIVOTRY MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOLAHY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SAHANIVOTRY MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIMANARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SAHANIVOTRY MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPAMEHENA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SAHANIVOTRY MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FARIHITSARA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SAHANIVOTRY MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "LAIMBOLO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SAHANIVOTRY MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAROMANANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SAHANIVOTRY MANANDONA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SAHANIVOTRY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "SOANINDRARINY": [
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBATOLAMPY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBODIALA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTAMBIAZONA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANIKATSAKA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTANIMASAKA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANTSAPANIMAHAZO FIANARANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "BEMASOANDRO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "EST-TENDRO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FIERENANTSOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MANARINTSOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOANAFINDRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOANINDRARINY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "SOANINDRARINY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAMODY",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "TSARAHONENANA SAHANIVOTRY": [
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHITSOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPAMOABE",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "BELANITRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAROMANDRAISOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MIARINTSOA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MORARANO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SAHANIVOTRY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAFIANATRA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "SOAVINARIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAFIERANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "TSARAHONENANA SAHANIVOTRY",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARAMIRAFITRA",
+        "district": "ANTSIRABE II"
+      }
+    ],
+    "VINANINKARENA": [
+      {
+        "commune": "VINANINKARENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMBOHIPENO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "VINANINKARENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "AMPANDROTRARANA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "VINANINKARENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANJANAMANJAKA AMBOHITRAIVO",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "VINANINKARENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "ANKARINOMBY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "VINANINKARENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "FIAKARANDAVA",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "VINANINKARENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "MAHAIMANDRY",
+        "district": "ANTSIRABE II"
+      },
+      {
+        "commune": "VINANINKARENA",
+        "region": "VAKINANKARATRA",
+        "fokontany": "TSARATANANA",
+        "district": "ANTSIRABE II"
+      }
+    ]
+  }
+}
