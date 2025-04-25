@@ -41,6 +41,5 @@ const ModelAdmin = {
     ]);
     return nameme[0].name;
   },
-
 };
 export default ModelAdmin;

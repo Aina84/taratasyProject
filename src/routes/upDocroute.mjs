@@ -1,8 +1,8 @@
 import { Router } from "express";
 import requestDocController from "../controllers/requestDocController.mjs";
 
-const router = Router()
+const router = Router();
 
-router.get('/document/:id',requestDocController)
+router.get("/document/:id", requestDocController);
 
-export default router
+export default router;

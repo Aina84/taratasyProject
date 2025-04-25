@@ -1,7 +1,11 @@
 import ModelAdmin from "../models/admin.model.mjs";
 import jwt from "../middlewares/jwt.mjs";
-import SaveJWT from "../services/savenjwToken.mjs";
+import SaveJWT, { DeleteJWT } from "../services/savenjwToken.mjs";
+import { readFile } from "fs/promises";
 import Modelclient from "../models/client.model.mjs";
+import { normalize, resolve } from "path";
+import JWT from 'jsonwebtoken'
+
 async function logging(req, res) {
   try {
     const { mail, mdp } = req.body;
@@ -13,11 +17,9 @@ async function logging(req, res) {
     const communeString = await ModelAdmin.getlocation(commune, "commune");
     const districtString = await ModelAdmin.getlocation(district, "district");
     if (data.length > 0) {
-      const { accesstoken, accesstokenkey } = await jwt.signaccesstoken(mail);
-      const { refreshtoken, refreshtokenkey } = await jwt.signrefreshtoken(
-        mail
-      );
-      await SaveJWT(mail, accesstokenkey, refreshtokenkey);
+      const { accesstoken } = await jwt.signaccesstoken(mail);
+      const { refreshtoken } = await jwt.signrefreshtoken(mail);
+      await SaveJWT(mail, accesstoken, refreshtoken);
       res.send({
         success: true,
         nom,
@@ -80,21 +82,34 @@ async function register(req, res) {
 }
 
 async function refreshtoken(req, res) {
-  const { refreshtoken, usermail } = req.body;
-  const mail = await jwt.verifyrefreshtoken(refreshtoken, usermail);
-  const newaccesstoken = await jwt.signaccesstoken(mail);
-  const newrefreshtoken = await jwt.signrefreshtoken(mail);
-  await SaveJWT(
-    mail,
-    newaccesstoken.accesstokenkey,
-    newrefreshtoken.refreshtokenkey
-  );
-  res.send([newaccesstoken.accesstoken, newrefreshtoken.refreshtoken]);
+  try {
+    const { refreshtoken, usermail } = req.body;
+    const mail = await jwt.verifyrefreshtoken(refreshtoken, usermail);
+    const newaccesstoken = await jwt.signaccesstoken(mail);
+    const cachetokenpath = normalize(
+      resolve(
+        "D:/DEV ESSAIS PROJETS/Taratasy_Backend_V1/src/cache",
+        `${mail.split("@")[0]}.txt`
+      )
+    );
+    const localRefreshtoken = await readFile(cachetokenpath, "utf8");
+    if (localRefreshtoken.length > 0) {
+      if (localRefreshtoken.trim() === refreshtoken) {
+        res.send({newaccesstoken, refreshtoken});
+        await SaveJWT(mail, newaccesstoken, refreshtoken);
+      } else {
+        throw Error("unauthorized");
+      }
+    } else {
+      throw Error("unauthorized");
+    }
+  } catch (error) {
+    res.send(error.message);
+  }
 }
 
 async function getClientList(req, res) {
   const { type, adminLocationID } = req.body;
-  console.log(type, adminLocationID);
   const clientList = await Modelclient.list(type, adminLocationID);
 
   for (let client of clientList) {
@@ -103,7 +118,6 @@ async function getClientList(req, res) {
     client.district = await ModelAdmin.getlocation(client.district, "district");
   }
 
-  console.log(clientList);
   res.send(clientList);
 }
 
@@ -142,11 +156,35 @@ async function getTotaluser(req, res) {
 
 async function giftUser(req, res) {
   const { id, gift } = req.body;
-  const dbresponse = await Modelclient.giftClient(id,gift)
-  res.send({success:true,message:'client gifted avec succes'})
+  const dbresponse = await Modelclient.giftClient(id, gift);
+  res.send({ success: true, message: "client gifted avec succes" });
+}
+
+async function logout(req, res) {
+  const { mail } = req.body;
+  await DeleteJWT(mail);
+  res.send("logout success");
+  console.log(mail,'logout success')
+}
+
+const giveAuthorization = async (req, res) => {
+  const authHeader = req.headers["authorization"];
+  const token = authHeader && authHeader.split(" ")[1];
+  JWT.verify(token, process.env.ACCESS_TOKEN_KEY, (err, payload) => {
+    if (err) {
+      if (err.name === "TokenExpiredError") {
+        return res.send({message:err.name});
+      } else if (err.name === "JsonWebTokenError") {
+        return res.send({message:err.name});
+      }
+      res.send({message:err.name});
+    }
+    res.send({ok:true})
+  });
 }
 
 export default {
+  logout,
   logging,
   register,
   refreshtoken,
@@ -154,5 +192,6 @@ export default {
   deleteClientbyID,
   getBestcontributor,
   getTotaluser,
-  giftUser
+  giftUser,
+  giveAuthorization
 };

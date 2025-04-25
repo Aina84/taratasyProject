@@ -78,7 +78,7 @@ const Modelclient = {
   giftClient: async (id, value) => {
     const [result] = await db.query(
       `UPDATE client SET solde=solde+? WHERE id=?`,
-      [value,id]
+      [value, id]
     );
     return result[0];
   },

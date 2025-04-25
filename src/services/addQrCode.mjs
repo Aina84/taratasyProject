@@ -1,27 +1,33 @@
-import { readFileSync } from 'node:fs';
-import { dirname } from 'node:path';
-import QRCode from 'qrcode';
-import sharp from 'sharp';
-import path from 'node:path';
+import { readFileSync } from "node:fs";
+import { dirname } from "node:path";
+import QRCode from "qrcode";
+import sharp from "sharp";
+import path from "node:path";
 
 async function QrGenerator(imagePath, outputPath, uniqueData) {
-    
-    const qrcodeBuffer = await QRCode.toBuffer(uniqueData, { width: 200, margin: 1 });
-    const originalImg = sharp(imagePath);
-    const metadata = await originalImg.metadata()
+  const qrcodeBuffer = await QRCode.toBuffer(uniqueData, {
+    width: 200,
+    margin: 1,
+  });
+  const originalImg = sharp(imagePath);
+  const metadata = await originalImg.metadata();
 
-    const out = await originalImg.composite([{
+  const out = await originalImg
+    .composite([
+      {
         input: qrcodeBuffer,
         top: metadata.height - 200,
-        left: metadata.width - 200
-    }]).toFile(outputPath)
+        left: metadata.width - 200,
+      },
+    ])
+    .toFile(outputPath);
 
-    console.log('img with qrc generated');
+  console.log("img with qrc generated");
 
-    return out;
+  return out;
 }
 
-export default QrGenerator
+export default QrGenerator;
 
 // app.get('/img', async (req, res) => {
 //     const name = req.query.name;
@@ -41,4 +47,3 @@ export default QrGenerator
 // app.listen(port, () => {
 //     console.log('server on port %d', port)
 // })
-
